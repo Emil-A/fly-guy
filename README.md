@@ -1,6 +1,6 @@
-*Can't believe I just found this gem, I remember being so proud of this freshmen year*
-*Still such a simple fun console based game, original instructions below*
-*Just run game.py with python in the terminal*
+*Can't believe I just found this gem, I remember being so proud of this freshmen year.*
+*Still such a simple fun console based game, original instructions below.*
+*Just run game.py with python in the terminal, enjoy!*
 
 FLY GUY:
 You are the caharcter value you input. 
